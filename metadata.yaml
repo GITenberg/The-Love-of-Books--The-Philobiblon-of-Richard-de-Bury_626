@@ -1,0 +1,36 @@
+_repo: The-Love-of-Books--The-Philobiblon-of-Richard-de-Bury_626
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Thomas, Ernest Chester
+    alias: Thomas, E. C. (Ernest Chester)
+    birthdate: 1850
+    deathdate: 1892
+    gutenberg_agent_id: '329'
+    url: http://www.gutenberg.org/2009/agents/329
+creator:
+  author:
+    agent_name: Bury, Richard de
+    alias: Aungerville, Richard
+    birthdate: 1287
+    deathdate: 1345
+    gutenberg_agent_id: '328'
+    url: http://www.gutenberg.org/2009/agents/328
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Aungerville
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book collecting'
+- !lcsh 'Manuscripts, Medieval -- Collectors and collecting'
+- !lcc 'Z'
+- GITenberg
+title: 'The Love of Books: The Philobiblon of Richard de Bury'
+url: http://www.gutenberg.org/ebooks/626
